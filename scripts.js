@@ -4759,10 +4759,10 @@ function doComputerMove() {
     }
 }
 
-// Evaluation graph
-
 var _lastMouseDataPos = null;
 
+
+// Evaluation graph
 function getGraphPointData(i) {
     var e = null,
         black = false;
