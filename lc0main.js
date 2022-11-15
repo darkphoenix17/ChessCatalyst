@@ -49,7 +49,6 @@ function readFileCustom(data) {
     });
 }
 
-
 function addToTest(data,url){
     return new Promise(function(resolve,reject){
         var req=readFile(url);
@@ -64,7 +63,6 @@ function addToTest(data,url){
         );
     });
 }
-
 
 Network = function() {
     const kNumOutputPolicies = 1858;
