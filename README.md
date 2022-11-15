@@ -17,7 +17,7 @@ Our mission from this project is to develop a free app that empowers chess posit
 - Ability to display an evaluation graph while visualizing blunders in different colors.
 - Ability to open a position or game in a new window via a given URL.
 - Ability to play against the machine laerning and set its difficulty level.
-- Ability to see an evaluation by the LCZero neural network.
+- Ability to see an evaluation by the neural network engine.
 - Ability to detect an opening move from the Opening Database.
 - Ability to choose the styling of the chessboard.
 - Relevant squares on the chessboard are visualized according to the static evaluation terms by the engine.
